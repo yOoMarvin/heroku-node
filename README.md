@@ -2,4 +2,4 @@ heroku-node
 ===========
 
 simple heroku app with node  
-check out here:
+check out [here](https://yoomarvin-heroku-node.herokuapp.com/)
